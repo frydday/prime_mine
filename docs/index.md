@@ -100,3 +100,6 @@ See [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines on how to contribute to
 ## License
 
 This project is licensed under the MIT License - see [LICENSE](../LICENSE) for details.
+
+
+- 📖 [Read the full documentation](SomethingElse.md)
